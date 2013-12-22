@@ -9,6 +9,6 @@ config/Dashboard.config
 usercontrols/dashboards/PageOverview  
 Global.asax
 
-Umbraco is running un a SQL CE database located in the App_Data folder.
+Umbraco is running on a SQL CE database located in the App_Data folder.
 
 Enjoy :)
