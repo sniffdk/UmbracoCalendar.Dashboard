@@ -5,8 +5,8 @@ A dashboard implementation created for the entry in the 24 Days In Umbraco Chris
 
 Relevant bits are located here:
 
-config/Dashboard.config
-usercontrols/dashboards/PageOverview
+config/Dashboard.config  
+usercontrols/dashboards/PageOverview  
 Global.asax
 
 Umbraco is running un a SQL CE database located in the App_Data folder.
