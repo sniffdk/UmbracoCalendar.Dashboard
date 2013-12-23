@@ -133,5 +133,4 @@
     }).on("loaded", function(e) {
         $(e.target).find("tr:odd").addClass("odd");
     });
-
 </script>
