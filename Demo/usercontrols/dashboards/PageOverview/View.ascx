@@ -50,8 +50,8 @@
                                     <span class="caret"></span>
                                 </button>
                                 <ul class="dropdown-menu">
-                                    <li data-value="10" data-selected="true"><a href="#">10</a></li>
-                                    <li data-value="30"><a href="#">30</a></li>
+                                    <li data-value="10"><a href="#">10</a></li>
+                                    <li data-value="30" data-selected="true"><a href="#">30</a></li>
                                     <li data-value="50"><a href="#">50</a></li>
                                     <li data-value="100"><a href="#">100</a></li>
                                     <li data-value="500"><a href="#">500</a></li>
@@ -125,7 +125,7 @@
         dataSource: dataSource,
         dataOptions: {
             pageIndex: 0, 
-            pageSize: 10,
+            pageSize: 30,
             sortProperty: "Updated",
             sortDirection : "desc",
             filter: true
